@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Der Start und worum es geht"
 date:   2023-07-11 19:59:00 +0200
 categories: allgemein
