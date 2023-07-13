@@ -1,7 +1,11 @@
 # main links
 main:
+  - title: "Posts"
+    url: /
   - title: "Contribution"
     url: /contribution/
+  - title: "Autor"
+    url: /author/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
