@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: Contribution
 permalink: /contribution/
 ---
