@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Vorstellung des Perl Webframeworks Mojolicious"
 date:   2023-07-12 13:00:00 +0200
 categories: allgemein perl mojolicious
