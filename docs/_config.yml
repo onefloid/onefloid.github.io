@@ -145,7 +145,8 @@ footer:
       url: https://gitlab.com/onefloid
     - label: "Impressum"
       url: /impressum/
-
+    - label: "Datenschutzerklärung"
+      url: /datenschutzerklaerung/
 
 
 # Reading Files
