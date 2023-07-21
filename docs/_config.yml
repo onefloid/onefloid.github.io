@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Florian Scherzberg"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Florian Scherzberg a.k.a. onefloid hat einen M.Sc. in Informatik und arbeitet seit 2011 im Deutsche Bahn Konzern. Seit 2017 ist er bei der DB AG als Entwickler angestellt. In seiner Tätigkeit hat er Berührungspunkte Computing, Datenbank-, Web- und Softwareentwicklung sowie das Hosting in der Cloud."
+  bio              : "Florian Scherzberg a.k.a. onefloid hat einen Master of Science in Informatik und arbeitet seit 2011 im Deutsche Bahn Konzern. Seit 2017 ist er bei der DB AG als Entwickler angestellt. In seiner Tätigkeit hat er insbesondere Berührungspunkte zur Datenbank-, Web- und Softwareentwicklung sowie Erfahrung mit dem Hosting von Applikationen in der Cloud."
   location         : "Frankfurt am Main"
   email            :
   links:
