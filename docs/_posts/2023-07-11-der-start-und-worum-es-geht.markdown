@@ -2,6 +2,8 @@
 title:  "Der Start und worum es geht"
 date:   2023-07-11 19:59:00 +0200
 categories: allgemein
+header:
+  teaser: /assets/images/railway-track.jpg
 ---
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/railway-track.jpg" alt="Bild mit Eisenbahnschienen">
