@@ -47,7 +47,7 @@ cpanm Mojolicious
 
 ## Installation Express
 
-Zur [Installation von Django]https://expressjs.com/) sieht der Kommandozeilenaufruf wie folgt aus:
+Zur [Installation von Django](https://expressjs.com/) sieht der Kommandozeilenaufruf wie folgt aus:
 
 ```bash
 npm install express --save
