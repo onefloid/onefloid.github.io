@@ -13,13 +13,13 @@ Ein Framework ist eine Sammlung von generischem Code, der in einer Vielzahl von 
 
 ## Es gibt keine präzise Framework Definition
 
-Es gibt keine präzise Definition darüber, welche Funktionen ein Framework umfassen muss. So wird in der Informationstechnologie der Begriff für ganz unterschiedliche Softwarebibliotheken mit jeweils sehr unterschiedlichen Anwendungsfällen genutzt.[^1] Zum Beispiel wird häufig der Begriff Test Framework genutzt, für Test-Bibliotheken. Es gibt JavaScript Frameworks wie jQuery, die die Benutzerinteraktionen in einem Browser vereinfachen und vereinheitlichen sollen.[^2]
+Es gibt keine präzise Definition, welche Funktionen ein Framework umfassen muss. So wird in der Informationstechnologie der Begriff für ganz unterschiedliche Softwarebibliotheken mit jeweils sehr unterschiedlichen Anwendungsfällen genutzt.[^1] Zum Beispiel wird häufig der Begriff Test Framework genutzt, für Test-Bibliotheken. Es gibt JavaScript Frameworks wie jQuery, die die Benutzerinteraktionen in einem Browser vereinfachen und vereinheitlichen sollen.[^2]
 
 ## Was bietet ein Webframework?
 
 Die meisten Webframeworks bieten Lösungen für die folgenden Themenfelder: 
 * URL-Routing
-* Request- und Repsonse-Handling
+* Request- und Response-Handling
 * Templates
 * Entwicklungswebserver zum Debugging [^3]
 
@@ -38,7 +38,7 @@ Zu den Backend-Webframeworks zählen wir, u.a.
 * [Mojolicious](https://mojolicious.org/)
 * [Express.js](https://expressjs.com/)
 
-Zu den Fronend-Webframeworks zählen wir, u.a.
+Zu den Frontend-Webframeworks zählen wir, u.a.
 * [Angular](https://angular.io/)
 * [React](https://react.dev/vue) 
 * [Vue.js](https://vuejs.org/)
@@ -46,7 +46,9 @@ Zu den Fronend-Webframeworks zählen wir, u.a.
 
 ## Wieso sollte ein Webframework genutzt werden?
 
-Ohne den Einsatz von Webframeworks oder anderen Bibliotheken, müsste eine Anwendung, die als Webanwendung eingesetzt werden soll, die Funktionalität, wie eine Anfrage interpretiert wird, wie man die darin enthaltenen Parameter dekodiert und diese Informationen dann an den spezifischen Code der Anwendung, der für diese URL ausgeführt werden soll, übergibt, selbst implementieren. Am Ende soll eine HTML-Seite in eine Antwort kodiert und zurückgeschickt werden. Weil HTTP ein zustandsloses Protokoll ist, d.h. es werden keine Sitzungsinformationen von Anfrage zu Anfrage gespeichert, muss die Anwendung eine Möglichkeit haben, um zu erkennen, ob ein Benutzer an- oder abgemeldet ist, und sicherzustellen, dass die richtigen Informationen für jeden Benutzer verwendet werden. Das führt dazu, dass die Anwendung mehr Code benötigt, wenn sie im Web funktionieren soll. Bei kleinen Projekten kann die eigentliche Logik der Anwendung weniger Code sein, als der Code für die grundlegenden Funktionen, die erforderlich sind, damit die Applikation im Web funktioniert.[^6]
+Ohne den Einsatz von Webframeworks oder anderen Bibliotheken, müsste eine Anwendung, die als Webanwendung eingesetzt werden soll, die Funktionalität, wie eine Anfrage interpretiert wird, wie man die darin enthaltenen Parameter dekodiert und diese Informationen dann an den spezifischen Code der Anwendung übergibt, selbst implementieren. Am Ende soll eine HTML-Seite in eine Antwort kodiert und zurückgeschickt werden. 
+
+Weil HTTP ein zustandsloses Protokoll ist, d.h. es werden keine Sitzungsinformationen von Anfrage zu Anfrage gespeichert, muss die Anwendung eine Möglichkeit haben, um zu erkennen, ob ein Benutzer an- oder abgemeldet ist, und sicherzustellen, dass die richtigen Informationen für jeden Benutzer verwendet werden. Das führt dazu, dass die Anwendung mehr Code benötigt, wenn sie im Web funktionieren soll. Bei kleinen Projekten kann die eigentliche Logik der Anwendung weniger Code sein, als der Code für die grundlegenden Funktionen, die erforderlich sind, damit die Applikation im Web funktioniert.[^6]
 
 Unter anderem aus diesem Grund ist es nicht empfehlenswert, eine komplette Webapplikation von Grund auf neu zu schreiben. Durch den Einsatz eines geeigneten Webframeworks kann der Entwicklungsaufwand reduziert werden und die Wartbarkeit des Projekts erhöht werden. Häufig genutzte Funktionen sind in den Modulen des Frameworks gekapselt und geben eine gewisse Standardstruktur vor, sodass andere Entwickler es einfacher haben, sich in den Quellcode der Applikation einzuarbeiten. Frameworks werden häufig von vielen Entwicklern weltweit entwickelt und gewartet, sodass häufig durch ein Upgrade der Release Version Bugfixes und neue Features zur Verfügung stehen.[^7]
 
