@@ -55,5 +55,5 @@ npm install express --save
 
 ## Zusammenfassung
 
-Jede Skriptsprache bietet einen Paketmanager mit dem wir die Webframeworks und Erweiterungen installieren können. Dieses Vorgehen ist weit verbreitet und findet man bei vielen Webframeworks wieder. Schaut doch mal nach, wie man für die Programmierspache Ruby das beliebte Webframework [Ruby on Rails installiert](https://guides.rubyonrails.org/getting_started.html)...
+Jede Skriptsprache bietet einen Paketmanager, mit dem wir die Webframeworks und Erweiterungen installieren können. Dieses Vorgehen ist weit verbreitet und findet man bei vielen Webframeworks wieder. Schaut doch mal nach, wie man für die Programmierspache Ruby das beliebte Webframework [Ruby on Rails installiert](https://guides.rubyonrails.org/getting_started.html)...
 
