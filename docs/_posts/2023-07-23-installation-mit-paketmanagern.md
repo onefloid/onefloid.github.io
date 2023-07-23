@@ -39,7 +39,7 @@ Zur [Installation von Mojolicious](https://mojolicious.org) kann folgender Einze
 curl -L https://cpanmin.us | perl - -M https://cpan.metacpan.org -n Mojolicious
 ```
 
-Falls das bei dir nicht klappt, z.B. weil du unter Windows entwickelst, kannst du auch alternativ folgendes Kommando absetzen:
+Falls das bei dir nicht klappt, z.B. weil du unter Windows entwickelst, kannst du alternativ folgendes Kommando absetzen:
 
 ```powershell
 cpanm Mojolicious
