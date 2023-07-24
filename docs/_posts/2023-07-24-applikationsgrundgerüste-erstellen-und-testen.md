@@ -82,10 +82,10 @@ Bei allen drei Webframeworks haben wir ein Kommandozeilenprogramm mit dem wir ei
 
 --------------------------------------------------------
 
-[^1]: (Ernesti & Kaiser, 2017, Kap. 40.3)
-[^2]: (Ernesti & Kaiser, 2017, Kap. 40.3.1)
-[^3]: (Hochrein, 2019, S. 15)
-[^4]: (Foy, 2020, S. 215)
-[^5]: (Riedel, 2021b, Abschn. generate app) 
-[^6]: (Bäcker, 2012, S. 31)
-[^7]: (StrongLoop, IBM & Other expressjs.com contributors, 2019)
+[^1]: Ernesti, J. & Kaiser, P. (2017). Python 3: Das umfassende Handbuch (Galileo computing) (5. Auflage). Bonn:Rheinwerk Computing, Kap. 40.3
+[^2]: ebd., Kap. 40.3.1
+[^3]: Hochrein, A. (2019). Designing Microservices with Django: An Overview of Tools and Practices. New York, NY: Apress, S. 15
+[^4]: Foy, brian d. (2020). Mojolicious Web Clients. Perl School, S. 215
+[^5]: Riedel, S. (2021). Mojolicious::Commands - Command line interface. Zugriff am 24.07.2023. Verfügbar unter: <https://metacpan.org/pod/Mojolicious::Commands#generate-app>
+[^6]: Bäcker, R. (2012). Mojolicious-Tutorial: Teil 1. $ foo Perl-Magazin, 4, 30–37, S. 31
+[^7]: StrongLoop, IBM & Other expressjs.com contributors. (2017). Express application generator. Zugriff am 24.07.2023. Verfügbar unter: <https://expressjs.com/en/starter/generator.html>
