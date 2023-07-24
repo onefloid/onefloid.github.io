@@ -80,6 +80,8 @@ DEBUG=myexpressapp:* npm start
 ## Zusammenfassung
 Bei allen drei Webframeworks haben wir ein Kommandozeilenprogramm mit dem wir ein funktionsfähiges Applikationsgrundgerüst erstellen können. Dieses kann anschließend mit einem Framework-spezifischen Entwicklungsserver getestet werden. 
 
+Im nächsten Blogpost schauen wir uns die erstellten Grundgerüste an und gehen unter anderem auf das MVC-Entwurfsmuster ein, welches häufig für Web Applikationen genutzt wird. 
+
 --------------------------------------------------------
 
 [^1]: Ernesti, J. & Kaiser, P. (2017). Python 3: Das umfassende Handbuch (Galileo computing) (5. Auflage). Bonn:Rheinwerk Computing, Kap. 40.3
