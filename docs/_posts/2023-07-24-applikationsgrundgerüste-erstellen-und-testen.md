@@ -10,9 +10,9 @@ header:
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/scaffold.jpg" alt="Grundgerüst eines Gebäudes">
 
-In der Regel bieten Webframeworks kleine Kommandozeilenprogramme (CLI, englisch: command-line interface) an, die einem die Entwicklung der Webanwendung erleichtern, zum Beispiel in dem sie aus einer Vorlage ein funktionsfähiges Grundgerüst einer Webanwendung erstellen. Bei [Full-Stack-Webframeworks](/allgemein/was-ist-ein-webframework/#full-stack-webframeworks-vs-micro-frameworks) ist das Kommandozeilenprogramm meistens von Haus aus dabei. Bei anderen Frameworks muss es ggf. nachinstalliert werden. Der Funktionsumfang der Programme unterscheidet sich von Framework zu Framework. 
+In der Regel bieten Webframeworks kleine Kommandozeilenprogramme (CLI, englisch: command-line interface) an, die einem die Entwicklung der Webapplikation erleichtern, zum Beispiel in dem sie aus einer Vorlage ein funktionsfähiges Grundgerüst einer Webapplikation erstellen. Bei [Full-Stack-Webframeworks](/allgemein/was-ist-ein-webframework/#full-stack-webframeworks-vs-micro-frameworks) ist das Kommandozeilenprogramm meistens von Haus aus dabei. Bei anderen Frameworks muss es ggf. nachinstalliert werden. Der Funktionsumfang der Programme unterscheidet sich von Framework zu Framework. 
 
-Nachfolgend schauen wir uns die Kommandozeilenprogramme von Django, Mojolicious und Express an und erstellen jeweils ein funktionsfähiges Grundgerüst einer Webanwendung und führen sie anschließend mit einem Entwicklungsserver aus.
+Nachfolgend schauen wir uns die Kommandozeilenprogramme von Django, Mojolicious und Express an und erstellen jeweils ein funktionsfähiges Grundgerüst einer Webapplikation und führen sie anschließend mit einem Entwicklungsserver aus.
 
 ## Django 
 
@@ -30,7 +30,7 @@ Für die Erstellung einer App innerhalb eines Projekts gibt es ebenfalls ein Kom
 python manage.py startapp news
 ```
 
-Das Kommando erzeugt einen Ordner im Projektverzeichnis mit dem Namen news. Dies ist der Name der App, der frei gewählt werden kann. Wie das Projekt hat auch eine App ein Grundgerüst, welches durch das Ausführen des Kommandos angelegt wird.[^2] Nach der Erstellung der App liegt bereits eine funktionsfähige Webanwendung vor. Diese kann mit dem folgenden Kommando gestartet werden[^3]
+Das Kommando erzeugt einen Ordner im Projektverzeichnis mit dem Namen news. Dies ist der Name der App, der frei gewählt werden kann. Wie das Projekt hat auch eine App ein Grundgerüst, welches durch das Ausführen des Kommandos angelegt wird.[^2] Nach der Erstellung der App liegt bereits eine funktionsfähige Webapplikation vor. Diese kann mit dem folgenden Kommando gestartet werden[^3]
 
 ```bash
 python manage.py runserver
