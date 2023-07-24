@@ -1,7 +1,8 @@
 ---
 title:  "Installation eines Webframeworks mit einem Paketmanager"
 last_modified_at: "2023-07-23"
-categories: Installation
+categories: 
+  - Getting Started
 tags: Python Perl Node.js Django Mojolicious Express
 header:
   teaser: /assets/images/download.png
